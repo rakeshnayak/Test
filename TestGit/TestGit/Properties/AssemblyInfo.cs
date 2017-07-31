@@ -28,10 +28,14 @@ using System.Runtime.InteropServices;
 //      Minor Version 
 //      Build Number
 //      Revision
+<<<<<<< HEAD
 //test test
 //test test
 //test test
 // Test
+=======
+// Test, this is a test comment
+>>>>>>> a029dd777c58bdeb31c0a2d2e7c0de5943a6ceca
 // You can specify all the values or you can default the Revision and Build Numbers 
 // by using the '*' as shown below:
 [assembly: AssemblyVersion("1.0.0.0")]
